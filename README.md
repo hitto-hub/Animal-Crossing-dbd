@@ -1,5 +1,6 @@
 # メモ
 DropboxにおいてたけどGitHubに置いといたらいい感じなのでは？  
+受験期に作ったのでver.1.15.2です。
 
 ## メモ
 /server.properties  # server.jar使うときserver.jarと同じところに入れとく  
